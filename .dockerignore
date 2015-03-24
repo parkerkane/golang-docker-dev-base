@@ -1,0 +1,4 @@
+bin
+pkg
+_vendor/bin
+_vendor/pkg
